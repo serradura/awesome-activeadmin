@@ -12,6 +12,7 @@
 # Rails apps - Open Source Projects
 * [SprintApp](https://github.com/macfanatic/SprintApp)
 * [active_invoices](https://github.com/ianmurrays/active_invoices)
+* [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
 
 # Posts
 * [Add custom style for active admin boolean fileds](http://salayhin.wordpress.com/2014/04/24/add-custom-style-for-active-admin-boolean-fileds/)

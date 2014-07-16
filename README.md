@@ -8,6 +8,9 @@
 * [responsive_active_admin](https://github.com/ball-hayden/responsive_active_admin)
 * [active_admin-subnav](http://rubygems.org/gems/active_admin-subnav)
 * [active_admin-duplicatable](http://rubygems.org/gems/active_admin-duplicatable)
+* [activeadmin_images](https://github.com/KernelCorp/activeadmin_images)
+* [active_admin_tinymce](https://github.com/KernelCorp/active_admin_tinymce)
+* [active_admin_jcrop](https://github.com/Ricardonacif/active_admin_jcrop)
 
 # Rails apps - Open Source Projects
 * [SprintApp](https://github.com/macfanatic/SprintApp)

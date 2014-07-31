@@ -18,6 +18,9 @@
 * [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
 
 # Posts
+* [Building Web Apps with Active Admin](http://reverbhq.com/blog/2012/08/building-web-apps-with-activeadmin/)
+* [activeadmin cool tweaks](http://amolnpujari.wordpress.com/2013/10/23/activeadmin-cool-tweaks/)
+* [a quick javascript lightbox](http://amolnpujari.wordpress.com/2013/12/19/a-quick-javascript-lightbox/)
 * [Add custom style for active admin boolean fileds](http://salayhin.wordpress.com/2014/04/24/add-custom-style-for-active-admin-boolean-fileds/)
 * [Using ActiveRecord scopes with activeadmin](http://www.reinteractive.net/posts/189-using-activerecord-scopes-with-activeadmin)
 * [8 Insanely Useful ActiveAdmin Customizations](http://viget.com/extend/8-insanely-useful-activeadmin-customizations)

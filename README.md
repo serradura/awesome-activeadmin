@@ -22,6 +22,7 @@
 * [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
 
 # Extensions
+* [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
 * [active_skin](https://github.com/KMPgroup/active_skin)
 * [activeadmin-select2](https://github.com/mfairburn/activeadmin-select2)
 * [activeadmin-dropzone](http://rubygems.org/gems/activeadmin-dropzone)

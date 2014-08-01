@@ -12,6 +12,7 @@
 * [TechSleek: Nested forms for belongs_to relationship - ActiveAdmin](http://eshaiju.blogspot.com.br/2014/03/nested-forms-for-belongsto-relationship.html?m=1)
 * [ActiveAdmin Form Field For Strongbox Encrypted Attribute](http://seankibler.com/activeadmin-form-field-for-strongbox-encrypted-attribute)
 * [Sortable lists with acts_as_list and ActiveAdmin](http://mossity.com/2011/07/08/sortable-lists-with-actsaslist-and-activeadmin/)
+* [Akita on Rails (pt-BR)](http://www.akitaonrails.com/ActiveAdmin)
 
 # Stack Overflow
 * [How to insert show code in edit form using ActiveAdmin Gem](http://stackoverflow.com/questions/23843323/how-to-insert-show-code-in-edit-form-using-activeadmin-gem?utm_source=dlvr.it&ref=abada)

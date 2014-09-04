@@ -10,6 +10,7 @@
 * [ActiveAdmin Tables](http://codequizzes.wordpress.com/2013/05/22/activeadmin-tables/)
 * [ActiveAdmin and CanCan integration (with an existing user) – Aylic Petit](http://sush.github.io/posts/active-admin-and-cancan-integration/)
 * [TechSleek: Nested forms for belongs_to relationship - ActiveAdmin](http://eshaiju.blogspot.com.br/2014/03/nested-forms-for-belongsto-relationship.html?m=1)
+* [Nested Attributes in ActiveAdmin for Rails 4](http://yoniweisbrod.com/blog/2014/07/11/nested-attributes-in-activeadmin-for-rails-4/)
 * [ActiveAdmin Form Field For Strongbox Encrypted Attribute](http://seankibler.com/activeadmin-form-field-for-strongbox-encrypted-attribute)
 * [Sortable lists with acts_as_list and ActiveAdmin](http://mossity.com/2011/07/08/sortable-lists-with-actsaslist-and-activeadmin/)
 * [Akita on Rails (pt-BR)](http://www.akitaonrails.com/ActiveAdmin)

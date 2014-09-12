@@ -1,4 +1,5 @@
 # Posts
+* [Activeadmin Cheat Sheet](http://engineering.coachup.com/activeadmin-cheat-sheet/)
 * [Building Web Apps with Active Admin](http://reverbhq.com/blog/2012/08/building-web-apps-with-activeadmin/)
 * [activeadmin cool tweaks](http://amolnpujari.wordpress.com/2013/10/23/activeadmin-cool-tweaks/)
 * [a quick javascript lightbox](http://amolnpujari.wordpress.com/2013/12/19/a-quick-javascript-lightbox/)

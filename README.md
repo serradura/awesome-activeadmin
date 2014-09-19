@@ -18,6 +18,9 @@
 * [ActiveAdmin Form Field For Strongbox Encrypted Attribute](http://seankibler.com/activeadmin-form-field-for-strongbox-encrypted-attribute)
 * [Sortable lists with acts_as_list and ActiveAdmin](http://mossity.com/2011/07/08/sortable-lists-with-actsaslist-and-activeadmin/)
 * [jQuery Datatables + Active Admin](https://gist.github.com/EtienneDepaulis/4070962)
+* [ActiveAdmin and CanCan](http://blog.genuitytech.com/2012/02/26/activeadmin-and-cancan/)
+* [Rails 3 Nested Models in one form using Formtastic and Cocoon gems](http://maxivak.com/rails-3-nested-models-in-one-form-using-formtastic-and-cocoon-gems/)
+* [ActiveAdmin: Beyond the basics](http://blog.agile-pandas.com/2011/07/06/activeadmin-beyond-the-basics)
 * [(pt-BR) Akita on Rails](http://www.akitaonrails.com/ActiveAdmin)
 * [(pt-BR) Criando páginas não tão estáticas no rails](http://helabs.com.br/blog/2013/08/12/criando-paginas-nao-tao-estaticas-no-rails/)
 

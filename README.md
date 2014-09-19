@@ -1,4 +1,6 @@
 # Posts
+* [Facebook authentication on ActiveAdmin](http://helabs.com.br/blog/2014/04/07/facebook-authentication-on-activeadmin/)
+* [Quick add and quick edit on ActiveAdmin](http://helabs.com.br/blog/2014/05/28/quick-add-and-quick-edit-on-active-admin/)
 * [Activeadmin Cheat Sheet](http://engineering.coachup.com/activeadmin-cheat-sheet/)
 * [Building Web Apps with Active Admin](http://reverbhq.com/blog/2012/08/building-web-apps-with-activeadmin/)
 * [activeadmin cool tweaks](http://amolnpujari.wordpress.com/2013/10/23/activeadmin-cool-tweaks/)
@@ -14,8 +16,9 @@
 * [Nested Attributes in ActiveAdmin for Rails 4](http://yoniweisbrod.com/blog/2014/07/11/nested-attributes-in-activeadmin-for-rails-4/)
 * [ActiveAdmin Form Field For Strongbox Encrypted Attribute](http://seankibler.com/activeadmin-form-field-for-strongbox-encrypted-attribute)
 * [Sortable lists with acts_as_list and ActiveAdmin](http://mossity.com/2011/07/08/sortable-lists-with-actsaslist-and-activeadmin/)
-* [Akita on Rails (pt-BR)](http://www.akitaonrails.com/ActiveAdmin)
 * [jQuery Datatables + Active Admin](https://gist.github.com/EtienneDepaulis/4070962)
+* [(pt-BR) Akita on Rails](http://www.akitaonrails.com/ActiveAdmin)
+* [(pt-BR) Criando páginas não tão estáticas no rails](http://helabs.com.br/blog/2013/08/12/criando-paginas-nao-tao-estaticas-no-rails/)
 
 # Stack Overflow
 * [How to insert show code in edit form using ActiveAdmin Gem](http://stackoverflow.com/questions/23843323/how-to-insert-show-code-in-edit-form-using-activeadmin-gem?utm_source=dlvr.it&ref=abada)

@@ -46,6 +46,7 @@
 * [activeadmin_images](https://github.com/KernelCorp/activeadmin_images)
 * [active_admin_tinymce](https://github.com/KernelCorp/active_admin_tinymce)
 * [active_admin_jcrop](https://github.com/Ricardonacif/active_admin_jcrop)
+* [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
 
 # Utilities
 * [awesome-ruby](https://github.com/markets/awesome-ruby)

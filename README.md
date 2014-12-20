@@ -1,4 +1,5 @@
 # Posts
+* [ActiveAdmin Filters—Unlocking the Power of Ransack](http://viget.com/extend/activeadmin-filters-unlocking-the-power-of-ransack)
 * [ActiveAdmin vs Nested Models vs Formtastic vs Acts as Relation](https://coderwall.com/p/cms9ma)
 * [Facebook authentication on ActiveAdmin](http://helabs.com.br/blog/2014/04/07/facebook-authentication-on-activeadmin/)
 * [Quick add and quick edit on ActiveAdmin](http://helabs.com.br/blog/2014/05/28/quick-add-and-quick-edit-on-active-admin/)

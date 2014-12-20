@@ -25,17 +25,15 @@
 * [(pt-BR) Akita on Rails](http://www.akitaonrails.com/ActiveAdmin)
 * [(pt-BR) Criando páginas não tão estáticas no rails](http://helabs.com.br/blog/2013/08/12/criando-paginas-nao-tao-estaticas-no-rails/)
 
-# Stack Overflow
-* [How to insert show code in edit form using ActiveAdmin Gem](http://stackoverflow.com/questions/23843323/how-to-insert-show-code-in-edit-form-using-activeadmin-gem?utm_source=dlvr.it&ref=abada)
-
 # Rails apps - Open Source Projects
 * [SprintApp](https://github.com/macfanatic/SprintApp)
 * [active_invoices](https://github.com/ianmurrays/active_invoices)
 * [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
 
 # Extensions
-* [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
+* [flattened_active_admin](https://github.com/Papercloud/flattened_active_admin)
 * [active_skin](https://github.com/KMPgroup/active_skin)
+* [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
 * [activeadmin-select2](https://github.com/mfairburn/activeadmin-select2)
 * [activeadmin-dropzone](http://rubygems.org/gems/activeadmin-dropzone)
 * [activeadmin-globalize](https://github.com/stefanoverna/activeadmin-globalize)
@@ -54,3 +52,6 @@
 * [chartkick - Charts - Gem](https://github.com/ankane/chartkick)
 * [Improve Rails performance by adding a few gems - Post](http://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
 * [NoSQL in SQL: Build Schema-free, Scalable Data Storage Inside a Traditional RDBMS](http://www.hakkalabs.co/articles/nosql-sql-build-schema-free-scalable-data-storage-inside-traditional-rdbms)
+
+# Stack Overflow
+* [How to insert show code in edit form using ActiveAdmin Gem](http://stackoverflow.com/questions/23843323/how-to-insert-show-code-in-edit-form-using-activeadmin-gem?utm_source=dlvr.it&ref=abada)

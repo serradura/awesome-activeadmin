@@ -1,4 +1,5 @@
 # Posts
+* [ActiveAdmin simple_table](http://rubyglasses.blogspot.com.br/2015/02/activeadmin-simpletable.html)
 * [ActiveAdmin Filters—Unlocking the Power of Ransack](http://viget.com/extend/activeadmin-filters-unlocking-the-power-of-ransack)
 * [ActiveAdmin vs Nested Models vs Formtastic vs Acts as Relation](https://coderwall.com/p/cms9ma)
 * [Facebook authentication on ActiveAdmin](http://helabs.com.br/blog/2014/04/07/facebook-authentication-on-activeadmin/)
@@ -24,6 +25,7 @@
 * [ActiveAdmin: Beyond the basics](http://blog.agile-pandas.com/2011/07/06/activeadmin-beyond-the-basics)
 * [(pt-BR) Akita on Rails](http://www.akitaonrails.com/ActiveAdmin)
 * [(pt-BR) Criando páginas não tão estáticas no rails](http://helabs.com.br/blog/2013/08/12/criando-paginas-nao-tao-estaticas-no-rails/)
+* [ActiveAdmin and markdown](https://reinteractive.net/posts/43-activeadmin-and-markdown-on-your-15-minute-blog-part-4)
 
 # Rails apps - Open Source Projects
 * [SprintApp](https://github.com/macfanatic/SprintApp)

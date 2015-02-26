@@ -27,14 +27,13 @@
 * [(pt-BR) Criando páginas não tão estáticas no rails](http://helabs.com.br/blog/2013/08/12/criando-paginas-nao-tao-estaticas-no-rails/)
 * [ActiveAdmin and markdown](https://reinteractive.net/posts/43-activeadmin-and-markdown-on-your-15-minute-blog-part-4)
 
-# Rails apps - Open Source Projects
-* [SprintApp](https://github.com/macfanatic/SprintApp)
-* [active_invoices](https://github.com/ianmurrays/active_invoices)
-* [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
-
 # Extensions
+## Themes
 * [flattened_active_admin](https://github.com/Papercloud/flattened_active_admin)
 * [active_skin](https://github.com/KMPgroup/active_skin)
+* [active_admin_theme](https://github.com/didww/active_admin_theme) 
+
+## Others
 * [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
 * [activeadmin-select2](https://github.com/mfairburn/activeadmin-select2)
 * [activeadmin-dropzone](http://rubygems.org/gems/activeadmin-dropzone)
@@ -48,6 +47,11 @@
 * [active_admin_tinymce](https://github.com/KernelCorp/active_admin_tinymce)
 * [active_admin_jcrop](https://github.com/Ricardonacif/active_admin_jcrop)
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
+
+# Rails apps - Open Source Projects
+* [SprintApp](https://github.com/macfanatic/SprintApp)
+* [active_invoices](https://github.com/ianmurrays/active_invoices)
+* [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
 
 # Utilities
 * [awesome-ruby](https://github.com/markets/awesome-ruby)

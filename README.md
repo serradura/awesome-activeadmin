@@ -34,6 +34,7 @@
 * [active_admin_theme](https://github.com/didww/active_admin_theme) 
 
 ## Others
+* [active_admin_paranoia](https://github.com/raihan2006i/active_admin_paranoia)
 * [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
 * [activeadmin-select2](https://github.com/mfairburn/activeadmin-select2)
 * [activeadmin-dropzone](http://rubygems.org/gems/activeadmin-dropzone)
@@ -47,6 +48,7 @@
 * [active_admin_tinymce](https://github.com/KernelCorp/active_admin_tinymce)
 * [active_admin_jcrop](https://github.com/Ricardonacif/active_admin_jcrop)
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
+* [active_admin-extensions](https://github.com/Fire-Dragon-DoL/active_admin-extensions)
 
 # Rails apps - Open Source Projects
 * [SprintApp](https://github.com/macfanatic/SprintApp)

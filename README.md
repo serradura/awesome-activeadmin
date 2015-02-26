@@ -1,4 +1,5 @@
 # Posts
+* [Sharing code between ActiveAdmin resources](http://tmichel.github.io/2015/02/22/sharing-code-between-activeadmin-resources)
 * [ActiveAdmin simple_table](http://rubyglasses.blogspot.com.br/2015/02/activeadmin-simpletable.html)
 * [ActiveAdmin Filters—Unlocking the Power of Ransack](http://viget.com/extend/activeadmin-filters-unlocking-the-power-of-ransack)
 * [ActiveAdmin vs Nested Models vs Formtastic vs Acts as Relation](https://coderwall.com/p/cms9ma)

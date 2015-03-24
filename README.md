@@ -1,4 +1,10 @@
 # Posts
+* [ActiveAdmin - Disable JSON/XML export](https://coderwall.com/p/qzlssg/activeadmin-disable-json-xml-export)
+* [Create an ActiveAdmin account by Cloning a Devise User account](https://coderwall.com/p/k4bbnq/create-an-activeadmin-account-by-cloning-a-devise-user-account)
+* [Extending ActiveAdmin DSL](https://coderwall.com/p/wadeva/extending-activeadmin-dsl)
+* [How to Hide Your ActiveAdmin Path](https://coderwall.com/p/2luxig/how-to-hide-your-activeadmin-path)
+* [Implementing Devise Single Sign On with ActiveAdmin](http://goo.gl/cnyLTC)
+* [Shortcut for customizing ActiveAdmin columns](https://coderwall.com/p/epu-va/shortcut-for-customizing-activeadmin-columns)
 * [Sharing code between ActiveAdmin resources](http://tmichel.github.io/2015/02/22/sharing-code-between-activeadmin-resources/)
 * [ActiveAdmin simple_table](http://rubyglasses.blogspot.com.br/2015/02/activeadmin-simpletable.html)
 * [ActiveAdmin Filters—Unlocking the Power of Ransack](http://viget.com/extend/activeadmin-filters-unlocking-the-power-of-ransack)

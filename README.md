@@ -84,8 +84,13 @@ Apps - Open Source Projects
 
 Utilities
 =========
-* [awesome-ruby](https://github.com/markets/awesome-ruby)
+
 * [chartkick - Charts - Gem](https://github.com/ankane/chartkick)
 * [Improve Rails performance by adding a few gems - Post](http://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
 * [NoSQL in SQL: Build Schema-free, Scalable Data Storage Inside a Traditional RDBMS](http://www.hakkalabs.co/articles/nosql-sql-build-schema-free-scalable-data-storage-inside-traditional-rdbms)
 * [production_rails](https://github.com/ankane/production_rails)
+
+Other Awesome Lists
+===================
+* [awesome-ruby](https://github.com/markets/awesome-ruby)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

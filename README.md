@@ -1,6 +1,13 @@
+Awesome ActiveAdmin
+===================
+* [Posts](#posts)
+* [Applications](#applications)
+* [Themes](#themes)
+* [Plugins](#plugins)
+* [Other Awesome Lists](#other-awesome-lists)
+
 Posts
 =====
-
 * [ActiveAdmin - Disable JSON/XML export](https://coderwall.com/p/qzlssg/activeadmin-disable-json-xml-export)
 * [Create an ActiveAdmin account by Cloning a Devise User account](https://coderwall.com/p/k4bbnq/create-an-activeadmin-account-by-cloning-a-devise-user-account)
 * [Extending ActiveAdmin DSL](https://coderwall.com/p/wadeva/extending-activeadmin-dsl)
@@ -47,6 +54,13 @@ Posts
 * [Criando páginas não tão estáticas no rails](http://helabs.com/blog/2013/08/12/criando-paginas-nao-tao-estaticas-no-rails/)
 * [ActiveAdmin and Markdown](https://reinteractive.net/posts/43-activeadmin-and-markdown-on-your-15-minute-blog-part-4)
 
+Applications
+============
+* [Active Admin Store](https://github.com/activeadmin/demo.activeadmin.info)
+* [SprintApp](https://github.com/macfanatic/SprintApp)
+* [active_invoices](https://github.com/ianmurrays/active_invoices)
+* [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
+
 Extensions
 ==========
 
@@ -56,8 +70,8 @@ Themes
 * [active_skin](https://github.com/KMPgroup/active_skin)
 * [active_admin_theme](https://github.com/didww/active_admin_theme)
 
-Others
-------
+Plugins
+-------
 * [activeadmin-sortable-tree](https://github.com/zorab47/activeadmin-sortable-tree)
 * [active_admin_paranoia](https://github.com/raihan2006i/active_admin_paranoia)
 * [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
@@ -75,12 +89,6 @@ Others
 * [active_admin_jcrop](https://github.com/Ricardonacif/active_admin_jcrop)
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
 * [active_admin-extensions](https://github.com/Fire-Dragon-DoL/active_admin-extensions)
-
-Apps - Open Source Projects
-===========================
-* [SprintApp](https://github.com/macfanatic/SprintApp)
-* [active_invoices](https://github.com/ianmurrays/active_invoices)
-* [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
 
 Other Awesome Lists
 ===================

@@ -89,7 +89,3 @@ Utilities
 * [Improve Rails performance by adding a few gems - Post](http://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
 * [NoSQL in SQL: Build Schema-free, Scalable Data Storage Inside a Traditional RDBMS](http://www.hakkalabs.co/articles/nosql-sql-build-schema-free-scalable-data-storage-inside-traditional-rdbms)
 * [production_rails](https://github.com/ankane/production_rails)
-
-Stack Overflow
-==============
-* [How to insert show code in edit form using ActiveAdmin Gem](http://stackoverflow.com/questions/23843323/how-to-insert-show-code-in-edit-form-using-activeadmin-gem?utm_source=dlvr.it&ref=abada)

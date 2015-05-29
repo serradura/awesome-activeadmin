@@ -1,4 +1,6 @@
-# Posts
+Posts
+=====
+
 * [ActiveAdmin - Disable JSON/XML export](https://coderwall.com/p/qzlssg/activeadmin-disable-json-xml-export)
 * [Create an ActiveAdmin account by Cloning a Devise User account](https://coderwall.com/p/k4bbnq/create-an-activeadmin-account-by-cloning-a-devise-user-account)
 * [Extending ActiveAdmin DSL](https://coderwall.com/p/wadeva/extending-activeadmin-dsl)
@@ -45,13 +47,17 @@
 * [Criando páginas não tão estáticas no rails](http://helabs.com/blog/2013/08/12/criando-paginas-nao-tao-estaticas-no-rails/)
 * [ActiveAdmin and Markdown](https://reinteractive.net/posts/43-activeadmin-and-markdown-on-your-15-minute-blog-part-4)
 
-# Extensions
-## Themes
+Extensions
+==========
+
+Themes
+------
 * [flattened_active_admin](https://github.com/Papercloud/flattened_active_admin)
 * [active_skin](https://github.com/KMPgroup/active_skin)
 * [active_admin_theme](https://github.com/didww/active_admin_theme)
 
-## Others
+Others
+------
 * [activeadmin-sortable-tree](https://github.com/zorab47/activeadmin-sortable-tree)
 * [active_admin_paranoia](https://github.com/raihan2006i/active_admin_paranoia)
 * [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
@@ -70,17 +76,20 @@
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
 * [active_admin-extensions](https://github.com/Fire-Dragon-DoL/active_admin-extensions)
 
-# Rails apps - Open Source Projects
+Apps - Open Source Projects
+===========================
 * [SprintApp](https://github.com/macfanatic/SprintApp)
 * [active_invoices](https://github.com/ianmurrays/active_invoices)
 * [StartupHealthCheck](https://github.com/PixelCrafters/StartupHealthCheck)
 
-# Utilities
+Utilities
+=========
 * [awesome-ruby](https://github.com/markets/awesome-ruby)
 * [chartkick - Charts - Gem](https://github.com/ankane/chartkick)
 * [Improve Rails performance by adding a few gems - Post](http://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
 * [NoSQL in SQL: Build Schema-free, Scalable Data Storage Inside a Traditional RDBMS](http://www.hakkalabs.co/articles/nosql-sql-build-schema-free-scalable-data-storage-inside-traditional-rdbms)
 * [production_rails](https://github.com/ankane/production_rails)
 
-# Stack Overflow
+Stack Overflow
+==============
 * [How to insert show code in edit form using ActiveAdmin Gem](http://stackoverflow.com/questions/23843323/how-to-insert-show-code-in-edit-form-using-activeadmin-gem?utm_source=dlvr.it&ref=abada)

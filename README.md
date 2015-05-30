@@ -72,6 +72,7 @@ Themes
 
 Plugins
 -------
+* [activeadmin-settings](https://github.com/slate-studio/activeadmin-settings)
 * [activeadmin-sortable-tree](https://github.com/zorab47/activeadmin-sortable-tree)
 * [active_admin_paranoia](https://github.com/raihan2006i/active_admin_paranoia)
 * [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)

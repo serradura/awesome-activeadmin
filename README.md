@@ -72,24 +72,27 @@ Themes
 
 Plugins
 -------
+
+* [Active Admin Plugins](https://github.com/activeadmin-plugins) __(Github organization)__
+* [activeadmin-plugins](https://github.com/unmantained-activeadmin-plugins) __(Github organization)__
+* [activeadmin_addons](https://github.com/platanus/activeadmin_addons)
+* [active_admin-extensions](https://github.com/Fire-Dragon-DoL/active_admin-extensions)
+* [activeadmin-select2](https://github.com/mfairburn/activeadmin-select2)
 * [activeadmin-settings](https://github.com/slate-studio/activeadmin-settings)
 * [activeadmin-sortable-tree](https://github.com/zorab47/activeadmin-sortable-tree)
 * [active_admin_paranoia](https://github.com/raihan2006i/active_admin_paranoia)
-* [activeadmin_hstore_editor ](http://rubygems.org/gems/activeadmin_hstore_editor)
-* [activeadmin-select2](https://github.com/mfairburn/activeadmin-select2)
-* [activeadmin_addons](https://rubygems.org/gems/activeadmin_addons)
-* [activeadmin-dropzone](http://rubygems.org/gems/activeadmin-dropzone)
-* [activeadmin-globalize](https://github.com/stefanoverna/activeadmin-globalize)
+* [activeadmin_hstore_editor ](https://github.com/wild-r/activeadmin_hstore_editor)
+* [activeadmin-globalize](https://github.com/unmantained-activeadmin-plugins/activeadmin-globalize)
 * [active_admin-state_machine](https://github.com/macfanatic/active_admin-state_machine)
-* [activeadmin_expandable_inputs](https://github.com/arielschvartz/activeadmin_expandable_inputs)
 * [responsive_active_admin](https://github.com/ball-hayden/responsive_active_admin)
-* [active_admin-subnav](http://rubygems.org/gems/active_admin-subnav)
-* [active_admin-duplicatable](http://rubygems.org/gems/active_admin-duplicatable)
-* [activeadmin_images](https://github.com/KernelCorp/activeadmin_images)
-* [active_admin_tinymce](https://github.com/KernelCorp/active_admin_tinymce)
+* [activeadmin_expandable_inputs](https://github.com/arielschvartz/activeadmin_expandable_inputs)
 * [active_admin_jcrop](https://github.com/Ricardonacif/active_admin_jcrop)
+* [active_admin_tinymce](https://github.com/KernelCorp/active_admin_tinymce)
+* [activeadmin_images](https://github.com/KernelCorp/activeadmin_images)
+* [activeadmin-dropzone](http://maximgladkov.com/blog/activeadmin-dropzone-gem)
+* [active_admin-duplicatable](https://github.com/zorab47/active_admin-duplicatable)
+* [active_admin-subnav](http://rubygems.org/gems/active_admin-subnav)
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
-* [active_admin-extensions](https://github.com/Fire-Dragon-DoL/active_admin-extensions)
 
 Other Awesome Lists
 ===================

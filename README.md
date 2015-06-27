@@ -8,6 +8,7 @@ Awesome ActiveAdmin
 
 Posts
 =====
+* [UI Components in Rails](https://medium.com/@alessandro1997/ui-components-in-rails-7f9373f0f2f)
 * [ActiveAdmin - Disable JSON/XML export](https://coderwall.com/p/qzlssg/activeadmin-disable-json-xml-export)
 * [Create an ActiveAdmin account by Cloning a Devise User account](https://coderwall.com/p/k4bbnq/create-an-activeadmin-account-by-cloning-a-devise-user-account)
 * [Extending ActiveAdmin DSL](https://coderwall.com/p/wadeva/extending-activeadmin-dsl)

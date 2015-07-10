@@ -94,6 +94,7 @@ Plugins
 * [active_admin-duplicatable](https://github.com/zorab47/active_admin-duplicatable)
 * [active_admin-subnav](http://rubygems.org/gems/active_admin-subnav)
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
+* [active_admin_date_range_preset](https://github.com/workgena/active_admin_date_range_preset)
 
 Other Awesome Lists
 ===================

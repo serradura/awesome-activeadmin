@@ -70,6 +70,7 @@ Themes
 * [flattened_active_admin](https://github.com/Papercloud/flattened_active_admin)
 * [active_skin](https://github.com/KMPgroup/active_skin)
 * [active_admin_theme](https://github.com/didww/active_admin_theme)
+* [active_admin_face](https://github.com/kvokka/active_admin_face)
 
 Plugins
 -------

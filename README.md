@@ -71,6 +71,7 @@ Themes
 * [active_skin](https://github.com/KMPgroup/active_skin)
 * [active_admin_theme](https://github.com/didww/active_admin_theme)
 * [face_of_active_admin](https://github.com/kvokka/face_of_active_admin)
+* [active_bootstrap_skin](https://github.com/vinhnglx/active_bootstrap_skin)
 
 Plugins
 -------

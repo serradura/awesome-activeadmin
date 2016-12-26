@@ -8,6 +8,7 @@ Awesome ActiveAdmin
 
 Posts
 =====
+* [Custom Filters Using Ransacker In ActiveAdmin Interfaces](http://nikhgupta.com/code/activeadmin/custom-filters-using-ransacker-in-activeadmin-interfaces/)
 * [UI Components in Rails](https://medium.com/@alessandro1997/ui-components-in-rails-7f9373f0f2f)
 * [ActiveAdmin - Disable JSON/XML export](https://coderwall.com/p/qzlssg/activeadmin-disable-json-xml-export)
 * [Create an ActiveAdmin account by Cloning a Devise User account](https://coderwall.com/p/k4bbnq/create-an-activeadmin-account-by-cloning-a-devise-user-account)
@@ -67,12 +68,15 @@ Extensions
 
 Themes
 ------
+* [ActiveMaterial](https://github.com/vigetlabs/active_material)
 * [formadmin](https://github.com/formaweb/formadmin)
 * [flattened_active_admin](https://github.com/Papercloud/flattened_active_admin)
 * [active_skin](https://github.com/KMPgroup/active_skin)
 * [active_admin_theme](https://github.com/didww/active_admin_theme)
 * [face_of_active_admin](https://github.com/kvokka/face_of_active_admin)
 * [active_bootstrap_skin](https://github.com/vinhnglx/active_bootstrap_skin)
+
+**Awesome ActiveAdmin Themes List:** https://github.com/paladini/activeadmin-themes
 
 Plugins
 -------

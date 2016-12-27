@@ -8,6 +8,7 @@ Awesome ActiveAdmin
 
 Posts
 =====
+* [Adding Google Charts to your Active Admin Application](https://spin.atomicobject.com/2016/11/23/adding-google-charts-active-admin-application/)
 * [Custom Filters Using Ransacker In ActiveAdmin Interfaces](http://nikhgupta.com/code/activeadmin/custom-filters-using-ransacker-in-activeadmin-interfaces/)
 * [UI Components in Rails](https://medium.com/@alessandro1997/ui-components-in-rails-7f9373f0f2f)
 * [ActiveAdmin - Disable JSON/XML export](https://coderwall.com/p/qzlssg/activeadmin-disable-json-xml-export)

@@ -90,6 +90,7 @@ Plugins
 * [activeadmin-select2](https://github.com/mfairburn/activeadmin-select2)
 * [activeadmin-settings](https://github.com/slate-studio/activeadmin-settings)
 * [activeadmin-sortable-tree](https://github.com/zorab47/activeadmin-sortable-tree)
+* [activeadmin-sortable_table](https://github.com/bolshakov/activeadmin_sortable_table)
 * [active_admin_paranoia](https://github.com/raihan2006i/active_admin_paranoia)
 * [activeadmin_hstore_editor ](https://github.com/wild-r/activeadmin_hstore_editor)
 * [activeadmin-globalize](https://github.com/unmantained-activeadmin-plugins/activeadmin-globalize)

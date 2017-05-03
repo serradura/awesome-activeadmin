@@ -105,6 +105,7 @@ Plugins
 * [active_admin-subnav](http://rubygems.org/gems/active_admin-subnav)
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
 * [active_admin_date_range_preset](https://github.com/workgena/active_admin_date_range_preset)
+* [activeadmin-reform](https://github.com/bolshakov/activeadmin-reform)
 
 Other Awesome Lists
 ===================

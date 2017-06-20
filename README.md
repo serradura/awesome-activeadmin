@@ -1,3 +1,8 @@
+Warning: This list will no longer be maintained.
+================================================
+**Please, use the awesome ActiveAdmin wiki.
+Follow the link: https://github.com/activeadmin/activeadmin/wiki**
+
 Awesome ActiveAdmin
 ===================
 * [Posts](#posts)

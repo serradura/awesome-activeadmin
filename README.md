@@ -111,6 +111,7 @@ Plugins
 * [activeadmin-sortable](https://github.com/neo/activeadmin-sortable)
 * [active_admin_date_range_preset](https://github.com/workgena/active_admin_date_range_preset)
 * [activeadmin-reform](https://github.com/bolshakov/activeadmin-reform)
+* [active_admin_role](https://github.com/yhirano55/active_admin_role)
 
 Other Awesome Lists
 ===================

@@ -112,6 +112,11 @@ Plugins
 * [active_admin_date_range_preset](https://github.com/workgena/active_admin_date_range_preset)
 * [activeadmin-reform](https://github.com/bolshakov/activeadmin-reform)
 * [active_admin_role](https://github.com/yhirano55/active_admin_role)
+* [active_admin-form_errors](https://github.com/dhyegofernando/active_admin-form_errors)
+* [active_admin-cep_auto_complete](https://github.com/dhyegofernando/active_admin-cep_auto_complete)
+* [active_admin-advanced_create_another](https://github.com/dhyegofernando/active_admin-advanced_create_another)
+* [active_admin-jquery_inputmask](https://github.com/dhyegofernando/active_admin-jquery_inputmask)
+* [active_admin-humanized_enum](https://github.com/dhyegofernando/active_admin-humanized_enum)
 
 Other Awesome Lists
 ===================
